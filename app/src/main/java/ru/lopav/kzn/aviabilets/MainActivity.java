@@ -12,8 +12,8 @@ import ru.aviasales.template.ui.fragment.AviasalesFragment;
 public class MainActivity extends AppCompatActivity {
 
     // replace with your travel payout credentials
-    private final static String TRAVEL_PAYOUTS_MARKER = "your_travel_payouts_marker";
-    private final static String TRAVEL_PAYOUTS_TOKEN = "your_travel_payouts_token";
+    private final static String TRAVEL_PAYOUTS_MARKER = "198747";
+    private final static String TRAVEL_PAYOUTS_TOKEN = "186485adcfc6e436f9bcd25ef226fff9";
     private final static String SDK_HOST = "www.travel-api.pw";
     private AviasalesFragment aviasalesFragment;
 
